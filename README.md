@@ -18,7 +18,7 @@ Draw shapes in the air using just your fingers, and watch AI detect what you've 
 - 💬 Optional: Add voice output (TTS)
 
 
-## 🛠️ Tech Stack
+## 🛠️ TechStack
 
 - **Python**
 - **OpenCV**
