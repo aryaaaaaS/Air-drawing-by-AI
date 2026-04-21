@@ -6,7 +6,7 @@ Draw shapes in the air using just your fingers, and watch AI detect what you've 
 
 ---
 
-## 📌 Features
+## 📌 Features!!
 
 - 🖐️ **Finger-based Air Drawing** using **MediaPipe** + **OpenCV**
 - 🧠 **CNN Trained** on custom hand-drawn shape dataset
